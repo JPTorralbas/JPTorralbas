@@ -1,0 +1,6 @@
+print("Hi, I am @JPTorralbas.")
+print("I am interested in Full stack Development.")
+print("I am currently learning Pyton and Network.")
+print("I am looking to collaborate on a project which allow me to get more experience and to feel more confident coding.")
+print("You can reach me on Instagram @MeJP27")
+print("https://torralbasjp.wixsite.com/jptorralbas")
